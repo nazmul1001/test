@@ -7,3 +7,6 @@ mydb = mysql.connector.connect(
 )
 
 print(mydb)
+
+#This is a comment
+# I am adding two comments
